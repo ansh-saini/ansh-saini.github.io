@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<!-- The boring part! -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>My First Portfolio</title>
+	<meta content="Development portfolio of .... " name="description" property="og:description">
+	
+	<!-- Link to the relevant stylesheet -->
+	<link href="style.css" rel="stylesheet">
+	
+  <!--[if lte IE 8]>
+      <link href="dist/css/blockIE.css" rel="stylesheet">
+    <![endif]-->
+
+  <!-- Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,600,400" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+
+	<!-- This is a neat little effect that fades the website in from white when it is loaded. This will work in unison with a animation effect. -->
+  <script>
+    $(window).load(function () {
+      $('.preloader').delay(400).fadeOut('slow');
+    })
+	</script>
+	
+</head>
+
+
+
+
+<body>
+	<!-- This calls the little script written above. -->
+  <div class="preloader"></div>
+
+	<!-- The Intro section begins -->
+  <section class="intro">
+
+		<div class="intro-text"> <!-- Seperates the text section from the arrow. -->
+      <div class="Hi">
+				<h1>Hi! 👋  &mdash; My name is <span>Ansh Saini</span>, I'm a <span>Web Developer</span> 👨🏻‍💻 located in New Delhi, India.</h1> <!-- Insert your text here! -->
+      </div>
+    </div>
+
+	</section>
+	<!-- Intro section ends -->
+	
+	<!-- The portfolio section begins -->
+	<!-- Please note: all of the following images are from Unsplash. I do not own the rights to them, and I have used them according to Unsplash's
+				rules and regulations. All credits go to original owners/photographers.-->
+
+  <section class="projects">
+    <h1>My Projects! (2)</h1>
+    <div class="projects-collage">
+
+
+			<!-- Project One -->
+      <div class="project-item">
+        <figure class="project-figure">
+          <div class="project-overlay"></div>
+          <img src="https://images.unsplash.com/photo-1491931648265-8f68c1dc731b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=717ea0ca5595686d6311578a5b010861&auto=format&fit=crop&w=1050&q=80">
+          <figcaption class="project-text">
+            <h2>Blog</h2>
+            <p>This Blog Application is made using Django and Bootstrap and features basic CRUD methods.</p>
+            <p><a class="link-text" href="https://github.com/Casey-McCray/Blog" target="_blank"><button class="btn btn-info">View Code  <img class="git-logo" src="github-logo.png"></button></a> <a class="link-text" href="https://anshsaini.herokuapp.com/blog/" target="_blank"><button class="btn btn-info">View Website  <i class="fa fa-share" aria-hidden="true"></i></button></a></p>
+          </figcaption>
+        </figure>
+			</div>
+			<!-- Project One Ends -->
+			
+			<!-- Project Two -->
+      <div class="project-item">
+        <figure class="project-figure">
+          <div class="project-overlay"></div>
+          <img src="https://images.unsplash.com/photo-1481456384069-0effc539ab7e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6e82bb43d4428126504304646c8c6ed4&auto=format&fit=crop&w=1050&q=80">
+          <figcaption class="project-text">
+            <h2>Graphic Design Shop</h2>
+            <p>This is an e-commerce website where a user can place an order for a custom graphic design.</p>
+            <p><a class="link-text" href="https://github.com/Casey-McCray/GraphicDesignShop" target="_blank"><button class="btn btn-info">View Code  <img class="git-logo" src="github-logo.png"></button></a> <a class="link-text" href="https://ash-website.herokuapp.com" target="_blank"><button class="btn btn-info">View Website  <i class="fa fa-share" aria-hidden="true"></i></button></a></p>
+          </figcaption>
+          </figcaption>
+        </figure>
+			</a>
+			<!-- Project Two Ends -->
+
+
+
+<!-- 
+      <a class="project-item" href="https://www.github.com/jabedford" target="_blank">
+        <figure class="project-figure">
+          <div class="project-overlay"></div>
+          <img src="https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5eb27a51db4fda32656d35b5e6b93574&auto=format&fit=crop&w=1050&q=80">
+          <figcaption class="project-text">
+            <h2>Project Three</h2>
+            <p>Awesome Development</p>
+          </figcaption>
+        </figure>
+			</a>
+
+			
+
+      <a class="project-item" href="https://www.github.com/jabedford" target="_blank">
+        <figure class="project-figure">
+          <div class="project-overlay"></div>
+          <img src="https://images.unsplash.com/photo-1494366222322-387658a1a976?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=24100980ab1a60783e1c847b7965bd11&auto=format&fit=crop&w=1051&q=80">
+          <figcaption class="project-text">
+            <h2>Project Four</h2>
+            <p>Awesome Development</p>
+          </figcaption>
+        </figure>
+			</a>
+
+			
+
+      <a class="project-item" href="https://www.github.com/jabedford" target="_blank">
+        <figure class="project-figure">
+          <div class="project-overlay"></div>
+          <img src="https://images.unsplash.com/photo-1511107898938-65e7577d8fcf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=67e97ce300372131dade414f7ef77661&auto=format&fit=crop&w=1050&q=80">
+          <figcaption class="project-text">
+            <h2>Project Five</h2>
+            <p>Awesome Development</p>
+          </figcaption>
+        </figure>
+			</a>
+
+			
+
+      <a class="project-item" href="https://www.github.com/jabedford" target="_blank">
+        <figure class="project-figure">
+          <div class="project-overlay"></div>
+          <img src="https://images.unsplash.com/photo-1526049997133-25caee4c5796?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4a785d2392ba5c7683a2b09ee1b40b20&auto=format&fit=crop&w=1048&q=80">
+          <figcaption class="project-text">
+            <h2>Project Six</h2>
+            <p>Awesome Development</p>
+          </figcaption>
+        </figure>
+			</a>
+ -->
+			
+    </div>
+	</section>
+	<!-- Portfolio section ends -->
+	
+	
+	<!-- Contact button section begins -->
+  <section class="content contact">
+    <a class="button-slide" data-hover="anshsaini625@gmail.com" href="mailto:anshsaini625@gmail.com">
+      <span>Contact Me</span>
+    </a>
+	</section>
+	<!-- Contact button section ends-->
+	
+	<!-- Footer section begins - If you do not want links here, you can change the <li> items to just be <p> tags or whatever you require -->
+  <footer>
+    <div class="wrapper">
+      <ul>
+        <li>
+          <a href="https://instagram.com/_anshsaini_" target="_blank">Instagram</a>
+        </li>
+<!--         <li>
+          <a href="https://www.linkedin.com/in/jamesabedford" target="_blank">Linkedin</a>
+				</li> -->
+				<li>
+						<a href="https://github.com/Casey-McCray" target="_blank">GitHub</a>
+					</li>
+      </ul>
+    </div>
+	</footer>
+	<!-- Footer section ends -->
+
+</body>
+
+
+</html>
