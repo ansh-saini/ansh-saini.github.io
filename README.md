@@ -10,7 +10,7 @@ I'm a Web Developer based in New Delhi, India.
 
 1. [A Blogging Application](https://ansh-blog.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ansh-blog.herokuapp.com/)
 
-   [![GitHub Logo](https://d2.alternativeto.net/dist/icons/github-desktop_100200.png?width=128&height=128&mode=crop&upscale=false) View Code](https://github.com/ansh-saini/Blog/)
+    [GitHub](https://github.com/ansh-saini/Blog/)
   
    **Features:**
   
@@ -19,7 +19,7 @@ I'm a Web Developer based in New Delhi, India.
    * Uses AJAX and Rest Framework to perform real time updates. 
   
 2. [An online store for placing graphic design orders](https://ash-website.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ash-website.herokuapp.com/)
-   [GitHub Repository](https://github.com/ansh-saini/GraphicDesignShop/)
+    [GitHub](https://github.com/ansh-saini/GraphicDesignShop/)
   
     **Features:**
   
