@@ -8,9 +8,7 @@ I'm a Web Developer based in New Delhi, India.
 
 ### Here's a list of my Projects:
 
-1. [A Blogging Application](https://ansh-blog.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ansh-blog.herokuapp.com/)
-
-    [GitHub](https://github.com/ansh-saini/Blog/)
+1. [A Blogging Application](https://ansh-blog.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ansh-blog.herokuapp.com/) [![Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ansh-saini/GraphicDesignShop)
   
    **Features:**
   
@@ -18,8 +16,9 @@ I'm a Web Developer based in New Delhi, India.
    * Uses [Bootstrap](https://getbootstrap.com/) to style the frontend.
    * Uses AJAX and Rest Framework to perform real time updates. 
   
-2. [An online store for placing graphic design orders](https://ash-website.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ash-website.herokuapp.com/)
-    [GitHub](https://github.com/ansh-saini/GraphicDesignShop/)
+  
+  
+2. [An online store for placing graphic design orders](https://ash-website.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ash-website.herokuapp.com/) [![Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ansh-saini/Blog)
   
     **Features:**
   
