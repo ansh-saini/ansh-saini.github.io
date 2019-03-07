@@ -8,8 +8,8 @@ I'm a Web Developer based in New Delhi, India.
 
 ### Here's a list of my Projects:
 
-1. [A Blogging Application](https://ansh-blog.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-   [GitHub](https://github.com/ansh-saini/Blog/)
+1. [A Blogging Application](https://ansh-blog.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ansh-blog.herokuapp.com/)
+   [![Website github.com](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) View Code](https://github.com/ansh-saini/Blog/)
   
    **Features:**
   
@@ -17,7 +17,7 @@ I'm a Web Developer based in New Delhi, India.
    * Uses [Bootstrap](https://getbootstrap.com/) to style the frontend.
    * Uses AJAX and Rest Framework to perform real time updates. 
   
-2. [An online store for placing graphic design orders](https://ash-website.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+2. [An online store for placing graphic design orders](https://ash-website.herokuapp.com/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ash-website.herokuapp.com/)
    [GitHub Repository](https://github.com/ansh-saini/GraphicDesignShop/)
   
     **Features:**
