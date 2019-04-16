@@ -187,7 +187,7 @@ b {
 }
 
 .projects .projects-collage {
-    /* max-width: 96rem;    Enable this if you want some margin down the sides of the projects. */
+     max-width: 96rem;    /*Enable this if you want some margin down the sides of the projects.*/ 
     margin: 0 auto
 }
 
