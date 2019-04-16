@@ -311,6 +311,10 @@ img {
 
 /* Contact section begins */
 
+.contact-info {
+    text-align: center;
+}
+
 a.button-slide {
     position: relative;
     display: inline-block;
