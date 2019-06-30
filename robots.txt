@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ansh-saini.github.io/sitemap.xml
+Host: https://ansh-saini.github.io
